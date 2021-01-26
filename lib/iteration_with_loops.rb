@@ -12,7 +12,7 @@ while row_index < src.length do
   row_index += 1
 end
 
-  outer_results
+  outer_results =
 
 end
   # src will be an Array of Arrays of Strings and Integers
