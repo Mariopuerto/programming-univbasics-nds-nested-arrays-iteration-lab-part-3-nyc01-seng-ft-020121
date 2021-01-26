@@ -5,7 +5,7 @@ while row_index < src.length do
   element_index = 0
   while element_index < src[row_index].length 
    if src[row_index][element_index].class == String
-     outer_results = scr[row_index][element_index]
+     outer_results << scr[row_index][element_index]
    end
     element_index += 1
   end
